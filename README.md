@@ -18,9 +18,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SKsaikiran&theme=dark-smoky)
 <br/>
 <br />
-![SK's github stats](https://github-readme-stats.vercel.app/api?username=SKsaikiran&show_icons=true&theme=dracula&hide=stars,issues)
-<br />
-<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKsaikiran" /> <br />
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SKsaikiarn.SKsaikiran)
