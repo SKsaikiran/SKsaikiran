@@ -1,6 +1,6 @@
-# HEY 👋🏼 ,I am [SK!](https://github.com/SKsaikiran)
+# HEY 👋🏼 ,I am [SK!](https://github.com/SKsaikiran) :octocat:
 ### About Me  ^_^ 
-🎓 I am currently pursuing B.E in Computer Science at JIT. </br>
+🎓 I am currently pursuing B.E in Computer Science at JIT. </br> 
  👾 I enjoy learning and developing new things 👨‍💻 </br>
  <br />
  🔗 &nbsp;**Connect with me 🤝** <br /><br />
