@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/89591339/202513004-3f8ca0c1-72fc-45de-89a7-14f8ca8414c9.gif" width="498" height="169" > 
+
 # HEY 👋🏼 ,I am [SK!](https://github.com/SKsaikiran) :octocat:
 ### About Me  ^_^ 
 🎓 I am currently pursuing B.E in Computer Science at JIT. </br> 
