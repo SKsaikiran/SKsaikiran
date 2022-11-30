@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/89591339/202778365-9a4b24a4-d4c6-400d-b0ba-2b0c9bcaa467.gif" width="408" height="280" > 
+<img align="right" src="https://user-images.githubusercontent.com/89591339/202778365-9a4b24a4-d4c6-400d-b0ba-2b0c9bcaa467.gif" width="380" height="220" > 
 
 # HEY 👋🏼 ,I am [SK!](https://github.com/SKsaikiran) :octocat:
 ### About Me  ^_^ 
