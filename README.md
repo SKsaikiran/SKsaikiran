@@ -12,9 +12,6 @@
 <a href="mailto:saikiranj2002@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://www.instagram.com/Boyfromkoi/">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
 <a href="https://devfolio.co/@SaikiranJ">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
 </a>
