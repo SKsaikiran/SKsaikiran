@@ -2,8 +2,8 @@
 
  # HEY 👋🏼 ,I am [SK!](https://github.com/SKsaikiran) :octocat:
 ### About Me  ^_^ 
-🎓 I am currently pursuing B.E in Computer Science at JIT. </br> 
- 👾 I enjoy learning and developing new things 👨‍💻 </br>
+🎓 **B.E. in Computer Science from JIT!**</br>
+📊 **Passionate about data-driven problem solving and continuous learning.**</br>
  <br />
  🔗 &nbsp;**Connect with me 🤝** <br /><br />
 <a href="https://www.linkedin.com/in/sai-kiran-j-5102371b3/">
@@ -20,8 +20,12 @@
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKsaikiran&theme=monokai)](https://github.com/SKsaikiran)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
-[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKsaikiran&theme=monokai)](https://github.com/SKsaikiran)
+
