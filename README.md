@@ -2,7 +2,7 @@
 
  # HEY 👋🏼 ,I am [SK!](https://github.com/SKsaikiran) :octocat:
 ### About Me  ^_^ 
-🎓 **B.E. in Computer Science from JIT!**</br>
+🎓 **B.E. Computer Science from JIT!**</br>
 📊 **Passionate about data-driven problem solving and continuous learning.**</br>
  <br />
  🔗 &nbsp;**Connect with me 🤝** <br /><br />
